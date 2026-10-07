@@ -1,0 +1,4 @@
+PASS | expected=positive got=positive
+PASS | expected=negative got=negative
+PASS | expected=neutral got=neutral
+score: 3/3

@@ -1,0 +1,2 @@
+{"doctor":"Dr. Lee","clinic":"Sunrise Clinic","city":"Tampa","demo_date":"Oct 10"}
+parsed: {'doctor': 'Dr. Lee', 'clinic': 'Sunrise Clinic', 'city': 'Tampa', 'demo_date': 'Oct 10'}
